@@ -1,11 +1,11 @@
 {
-    "title": "Chemical Mandal",
-    "name": "chemical-mandal",
-    "version": "4.2.2",
+    "title": "Carbon Mandal",
+    "name": "carbon-mandal",
+    "version": "0.0.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Chemical Mandal",
+    "description": "Carbon Mandal",
     "keywords": [
         "css",
         "sass",
@@ -14,14 +14,14 @@
         "theme",
         "template"
     ],
-    "homepage": "https://chemicalmandal.com/",
+    "homepage": "www.carbonmandal.com/",
     "bugs": {
         "url": "https://preranmelanta.github.io/",
-        "email": "feedback@chemicalmandal.com"
+        "email": "roshanrai@carbonmandal.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/PMelanta/merge-mandal.git"
+        "url": "https://github.com/Carbon-Mandal/Website.git"
     },
     "dependencies": {
         "bootstrap": "4.5.0",
