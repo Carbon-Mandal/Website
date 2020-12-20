@@ -1,0 +1,36 @@
+{
+    "title": "Chemical Mandal",
+    "name": "chemical-mandal",
+    "version": "4.2.2",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "Chemical Mandal",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://chemicalmandal.com/",
+    "bugs": {
+        "url": "https://preranmelanta.github.io/",
+        "email": "feedback@chemicalmandal.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PMelanta/merge-mandal.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.5.0",
+        "jquery": "3.5.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "5.1.0",
+        "gulp": "4.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
